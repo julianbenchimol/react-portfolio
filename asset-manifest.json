@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/julianbenchimol/react-portfolio/static/css/main.756af292.css",
+    "main.js": "/julianbenchimol/react-portfolio/static/js/main.892cef2b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/julianbenchimol/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/julianbenchimol/react-portfolio/index.html",
+    "main.756af292.css.map": "/julianbenchimol/react-portfolio/static/css/main.756af292.css.map",
+    "main.892cef2b.js.map": "/julianbenchimol/react-portfolio/static/js/main.892cef2b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/julianbenchimol/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.892cef2b.js"
+  ]
+}
