@@ -11,13 +11,6 @@ export default function NavBar({currentPage, pageChange}) {
                 className = {currentPage === "Portfolio" ? "nav-link-active" : "nav-link"}/>
             </li>
 
-            {/* Resume Link */}
-            <li className = "nav-item">
-                <a href = "#my-resume" 
-                onClick={() => pageChange("MyResume")}
-                className = {currentPage === "MyResume" ? "nav-link-active" : "nav-link"}/>
-            </li>
-
             {/* Aboute Me Link */}
             <li className = "nav-item">
                 <a href = "#about-me" 
