@@ -6,7 +6,7 @@ export default function Header(props) {
     return (
         <div>
             <div id = "header">
-                <h1>Julian Benchimol</h1>
+                <h1>Julian Benchimol's Portfolio</h1>
                 <NavBar
                     currentPage = {currentPage}
                     pageChange = {pageChange}/>
