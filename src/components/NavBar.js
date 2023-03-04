@@ -28,7 +28,7 @@ export default function NavBar({currentPage, pageChange}) {
             {/* Contact Me Link */}
             <li className = "nav-item">
                 <a href = "#contact-me" 
-                onClick={() => pageChange("ContactMe")}
+                onClick={() => pageChange("Contact")}
                 className = {currentPage === "ContactMe" ? "nav-link-active" : "nav-link"}/>
             </li>
         </ul>
